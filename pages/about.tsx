@@ -4,7 +4,7 @@ import Seo from "../components/Seo";
 const About: NextPage = () => {
   return (
     <div>
-      <Seo title={"Home"} />
+      <Seo title={"About"} />
       <h1>About</h1>
     </div>
   );
